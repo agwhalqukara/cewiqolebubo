@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cewiqolebubo.pages.dev/sitemap.xml
